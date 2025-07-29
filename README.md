@@ -56,11 +56,11 @@ This data analysis project showcases a professional-grade Customer Analytics Das
   - Age groups & Age Category = used Nested IF logic as formula and WHO standard for age classification.
   - Tenure range & bucket = used IFS logic as formula to group customers into various tenure groups `(<=2, “Newbie”, <=11, “Regular” ………  >=21, “Legacy”)`. 
 
-
-
 ---
 ### Dashboard Preview
 ---
+
+
 
 ---
 ### 📈 Results/Findings
