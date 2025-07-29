@@ -38,7 +38,7 @@ This data analysis project showcases a professional-grade Customer Analytics Das
 - Priority Wealth Segment
 
 ---
-### 🧰 Tools Used
+### Tools Used
 ---
 
 - Excel – Data preparation, structure, and formulas 
@@ -56,14 +56,20 @@ This data analysis project showcases a professional-grade Customer Analytics Das
   - Age groups & Age Category = used Nested IF logic as formula and WHO standard for age classification.
   - Tenure range & bucket = used IFS logic as formula to group customers into various tenure groups `(<=2, “Newbie”, <=11, “Regular” ………  >=21, “Legacy”)`. 
 
+| Raw/Dirty Data | Cleaned Data |
+|----------------|--------------|
+| <img width="1336" height="692" alt="Raw Data" src="https://github.com/user-attachments/assets/48474df8-68da-4d14-a118-f00ac075dddf" /> | <img width="1360" height="708" alt="Cleaned Data" src="https://github.com/user-attachments/assets/8fdfabbb-e538-4e58-9b5a-596f6de01614" /> |
+
 ---
 ### Dashboard Preview
 ---
-
-
+<img width="720" height="1461" alt="CA Dashboard" src="https://github.com/user-attachments/assets/2caf2abc-ecbc-4749-83af-ad08c96d3265" />
+<img width="720" height="1600" alt="CA Dashboard _ Affluent Customer" src="https://github.com/user-attachments/assets/9170f011-2e2b-430d-87a0-a000470eedf5" />
+<img width="719" height="1441" alt="CA Dashboard _ High Net Worth" src="https://github.com/user-attachments/assets/cf8b7985-25f5-45cc-abe7-e35833af8c21" />
+<img width="720" height="1413" alt="CA Dashboard _ Mass Customer" src="https://github.com/user-attachments/assets/17e51567-d09d-427b-b1d6-268fe007d85d" />
 
 ---
-### 📈 Results/Findings
+### Results/Findings
 ---
 
 The analysis results are summarized as follows:
@@ -80,7 +86,7 @@ The analysis results are summarized as follows:
 | **Top Tenure Group** | From Settler – Advocate shows higher purchasing activities, but there is a decline in purchase towards Veteran and Legacy |
 
 ---
-### ✍️ Recommendations
+### Recommendations
 ---
 
 Based on the analysis, the following actions are recommended for Sprocket Central Pty Ltd to embark on:
@@ -92,7 +98,7 @@ Based on the analysis, the following actions are recommended for Sprocket Centra
 6. **For Tenure Group**: Introducing healthy customer retention strategies (loyalty programs) which will in turn have great impact on purchase pattern and tenure retention. 
 
 ---
-### ⛔ Limitations
+### Limitations
 ---
 
 I had to remove certain columns that where not consistent with the dataset, and certain incomplete rows that would have altered the accuracy of my conclusions. 
@@ -106,6 +112,8 @@ Understanding customer behavior is no longer optional! it's essential for buildi
 ---
 ### Project File
 ---
+[New Customer List Dataset.xlsx](https://github.com/user-attachments/files/21498762/New.Customer.List.Dataset.xlsx) - Cleaned and Transformed Excel File
+
 
 ---
 ### Author
