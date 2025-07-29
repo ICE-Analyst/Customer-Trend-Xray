@@ -5,9 +5,9 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Strategic Challenges Tackled](#strategic-challenges-tackled)
-- [🧰Tools Used](#tools-used)
+- [Tools Used](#tools-used)
 - [Dashboard Preview](#dashboard-preview)
-- [✍️ Recommendations](#recommendations)
+- [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
 
