@@ -14,17 +14,20 @@
 ---
 ### Project Overview
 ---
+
 This data analysis project showcases a professional-grade Customer Analytics Dashboard, which analyzes customer demographics, purchase patterns, and tenure segmentation to support data-driven marketing and retention strategies for Sprocket Central Pty Ltd.
 
 ---
 ### Data Sources
 ---
+
 - New Customer List data: The primary dataset used for this analysis is the “KPMG Virtual Internship_ Sprocket Central Pty Ltd Data set.xlsx” file (1,000 rows × 23 columns).
 - Content: Customer demographic information, bike purchase history, job industry, tenure, and wealth segments.
 
 ---
 ### Strategic Challenges Tackled
 ---
+
 - Aggregate Customer Volume
 - Cumulative Bike Purchases
 - Age Segment with Highest Potential
@@ -37,8 +40,23 @@ This data analysis project showcases a professional-grade Customer Analytics Das
 ---
 ### 🧰 Tools Used
 ---
+
 - Excel – Data preparation, structure, and formulas 
 - Power BI – Interactive dashboards and visuals
+
+---
+### Data Cleaning & Transformation Procedures
+---
+
+- Raw data was converted to Excel Table format
+- Irrelevant columns were removed
+- Replaced missing values with `"Not Specified"`
+- Created columns with formulas for:
+  - Age = `YEAR(TODAY()) - YEAR(D2; row number)`
+  - Age groups & Age Category = used Nested IF logic as formula and WHO standard for age classification.
+  - Tenure range & bucket = used IFS logic as formula to group customers into various tenure groups `(<=2, “Newbie”, <=11, “Regular” ………  >=21, “Legacy”)`. 
+
+
 
 ---
 ### Dashboard Preview
@@ -47,6 +65,7 @@ This data analysis project showcases a professional-grade Customer Analytics Das
 ---
 ### 📈 Results/Findings
 ---
+
 The analysis results are summarized as follows:
 
 | Indicators | Results/Findings |
@@ -63,6 +82,7 @@ The analysis results are summarized as follows:
 ---
 ### ✍️ Recommendations
 ---
+
 Based on the analysis, the following actions are recommended for Sprocket Central Pty Ltd to embark on:
 1. **For Gender**: Gender-targeted marketing campaigns will help optimize outreach strategies.
 2. **For States**: Focus on sales efforts on high-performing regions (New South Wales) and boost marketing campaigns for under-performing states (Victoria and Queensland).
@@ -74,11 +94,13 @@ Based on the analysis, the following actions are recommended for Sprocket Centra
 ---
 ### ⛔ Limitations
 ---
+
 I had to remove certain columns that where not consistent with the dataset, and certain incomplete rows that would have altered the accuracy of my conclusions. 
 
 ---
 ### Conclusion
 ---
+
 Understanding customer behavior is no longer optional! it's essential for building lasting relationships, improving retention, and maximizing lifetime value. This project provides a foundation for Sprocket Central and other businesses to move from generic outreach to precision-driven engagement.
 
 ---
@@ -88,4 +110,5 @@ Understanding customer behavior is no longer optional! it's essential for buildi
 ---
 ### Author
 ---
+
 Ihedioha Chima Emmanuel
