@@ -112,6 +112,9 @@ Understanding customer behavior is no longer optional! it's essential for buildi
 ---
 ### Project File
 ---
+
+
+
 [New Customer List Dataset.xlsx](https://github.com/user-attachments/files/21498762/New.Customer.List.Dataset.xlsx) - Cleaned and Transformed Excel File
 
 
