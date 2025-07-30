@@ -6,10 +6,13 @@
 - [Data Sources](#data-sources)
 - [Strategic Challenges Tackled](#strategic-challenges-tackled)
 - [Tools Used](#tools-used)
+- [Data Cleaning and Transformation Procedures](#data-cleaning-and-transformation-procedures)
 - [Dashboard Preview](#dashboard-preview)
+- [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
+- [Project File](#project-file)
 
 ---
 ### Project Overview
@@ -45,7 +48,7 @@ This data analysis project showcases a professional-grade Customer Analytics Das
 - Power BI – Interactive dashboards and visuals
 
 ---
-### Data Cleaning & Transformation Procedures
+### Data Cleaning and Transformation Procedures
 ---
 
 - Raw data was converted to Excel Table format
@@ -69,7 +72,7 @@ This data analysis project showcases a professional-grade Customer Analytics Das
 <img width="720" height="1413" alt="CA Dashboard _ Mass Customer" src="https://github.com/user-attachments/assets/17e51567-d09d-427b-b1d6-268fe007d85d" />
 
 ---
-### Results/Findings
+### Results and Findings
 ---
 
 The analysis results are summarized as follows:
@@ -112,14 +115,14 @@ Understanding customer behavior is no longer optional! it's essential for buildi
 ---
 ### Project File
 ---
+[Downlaod Power BI Report (.pbix)](https://github.com/ICE-Analyst/Customer-Trend-Xray/blob/main/Sprocket%20Ltd_Customer_Analytics_Dashboard.pbix) - Power BI Dashboard
 
-
-
-[New Customer List Dataset.xlsx](https://github.com/user-attachments/files/21498762/New.Customer.List.Dataset.xlsx) - Cleaned and Transformed Excel File
-
+[Download New Customer List Dataset.xlsx](https://github.com/user-attachments/files/21498762/New.Customer.List.Dataset.xlsx) - Cleaned and Transformed Excel File
 
 ---
 ### Author
 ---
 
 Ihedioha Chima Emmanuel
+
+
